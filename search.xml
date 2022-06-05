@@ -4,17 +4,67 @@
   
     
     <entry>
-      <title>Lucy 精彩视频剪辑</title>
-      <link href="/2022/04/02/test/"/>
-      <url>/2022/04/02/test/</url>
+      <title>发现一个好玩的玩具</title>
+      <link href="/2022/06/05/%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%8E%A9%E5%85%B7/"/>
+      <url>/2022/06/05/%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%8E%A9%E7%9A%84%E7%8E%A9%E5%85%B7/</url>
       
-        <content type="html"><![CDATA[<p>曾经我也想这样，于是就变成了程序员！！</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:400;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://r9sxnjisw.hn-bkt.clouddn.com/%E7%B2%BE%E5%BD%A9%E7%94%B5%E5%BD%B1%E7%89%87%E6%AE%B5%20lucy.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+        <content type="html"><![CDATA[<h2 id="今天玩什么"><a href="#今天玩什么" class="headerlink" title="今天玩什么"></a>今天玩什么</h2><p>网络不是自由之地，但是我们还是希望去追求那一丁点的自由。<br>今天的玩具有哪些呢:</p><ul><li>Zerotier + Talkie<br><img src="https://lc-gluttony.s3.amazonaws.com/SUtx7NIl1bq9/bVfkPmLi1dMbCTOGQO8Yr4ssjzCTtX4M/zerotioer%2Btalkie.png" alt="Zerotier + Talkie"></li><li>Zerotier + Slide2Talk<br><img src="https://lc-gluttony.s3.amazonaws.com/SUtx7NIl1bq9/2zCPg1CJD9HC3AriIuaKrlbvxwjUW3P0/zerotier%2Bslide2talk.png" alt="Zerotier + Slide2Talk"></li></ul><h2 id="为什么要推荐这两个玩具"><a href="#为什么要推荐这两个玩具" class="headerlink" title="为什么要推荐这两个玩具"></a>为什么要推荐这两个玩具</h2><p>主要原因是现在的网络环境，对于言论的审查太厉害，虽然咱也不干什么缺德事，但也不喜欢光着屁股跑是吧。</p><p><strong>这两套玩具都能够帮我们通过手机和其他用户进行P2P沟通联系，无中间商哟。</strong></p><p>之前一直有想法自己实现这样的APP，但是一直没有开动，直到慢慢发现了这两个现成的产品，虽然麻烦了点，但也勉强能够用吧。</p><h2 id="Zerotier-Talkie-Slied2Talk分别是什么"><a href="#Zerotier-Talkie-Slied2Talk分别是什么" class="headerlink" title="Zerotier Talkie Slied2Talk分别是什么"></a>Zerotier Talkie Slied2Talk分别是什么</h2><ul><li>Zerotier是可以理解为是一款全球性的VPN平台，用户只要注册就可以搭建自己的私有网络，将多个设备加入到局域网络中。</li><li>Talkie 是一款局域网的交流APP，可以文字聊天（群聊、私聊）、IP语音、文件传输。</li><li>Slide2Talk 是一款局域网对讲APP，用户可以创建或加入组，并通过语音群聊或私聊。</li></ul><p>这里列举的三款APP使用方式都可以通过bing.com搜索到，请自行搜索。</p><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p><strong>场景一：语音对讲</strong></p><ol><li>打开2部手机，连接zerotier，确保局域网入网成功。</li><li>打开Slide2Talk，用一个手机创建组，然后另外一个手机扫码加入组</li><li>开始聊天</li></ol><p><strong>场景二：普通聊天、文件传输、IP语音</strong></p><ol><li>打开2部手机，连接zerotier，确保局域网入网成功。</li><li>打开Talkie APP后，所有接入同一个网络的用户都会出现到列表中。</li><li>开始交流</li></ol><p>PS：这里就不截图给大家介绍了，后面给大家录视频介绍。</p><h2 id="优缺点"><a href="#优缺点" class="headerlink" title="优缺点"></a>优缺点</h2><p>优点：无中间商，安全、自由<br>缺点：配置、使用比微信啥的麻烦，功能单一</p><h2 id="使用场景"><a href="#使用场景" class="headerlink" title="使用场景"></a>使用场景</h2><p>大家自行琢磨吧！</p><p>谢谢您的阅读。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 技术宅 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 电影剪辑 </tag>
+            <tag> IPv6 </tag>
+            
+            <tag> Zerotier </tag>
+            
+            <tag> 个人信息安全 </tag>
+            
+            <tag> 无监控聊天 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>post</title>
+      <link href="/2022/06/05/post/"/>
+      <url>/2022/06/05/post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Lucy 精彩视频剪辑</title>
+      <link href="/2022/04/02/Lucy%20%E7%B2%BE%E5%BD%A9%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/"/>
+      <url>/2022/04/02/Lucy%20%E7%B2%BE%E5%BD%A9%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/</url>
+      
+        <content type="html"><![CDATA[<p>曾经我也想这样，于是就变成了程序员！！</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:400;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://r9sxnjisw.hn-bkt.clouddn.com/%E7%B2%BE%E5%BD%A9%E7%94%B5%E5%BD%B1%E7%89%87%E6%AE%B5%20lucy.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影剪辑 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科幻 </tag>
             
         </tags>
       
